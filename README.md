@@ -1,5 +1,5 @@
 # Manual Testing Guidelines
-Bộ testing guidelines này tôi xây dựng để gợi ý cho tester team, trong đó bao gồm cả các yếu tố test về bảo mật, UI/UX bên cạnh các yếu tố về chức năng đơn thuần.
+Bộ testing guidelines này tôi xây dựng để gợi ý cho tester team, trong đó bao gồm cả các yếu tố test về bảo mật, UI/UX, tương tác, và hiệu suất bên cạnh các yếu tố về chức năng đơn thuần.
 
 Bộ guidelines này được xây dựng trên kinh nghiệm của bản thân, nên có thể chưa toàn diện và có thiếu sót, rất mong nhận được sự góp ý qua email namnguyenvn@gmail.com.
 
